@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	font-size: 50px;
+}
+
+h2{
+	color: orange;
+}
+
+h3{
+	color: yellow;
+	
+}
+
+p{
+	color: orange;
+}
+
+.bacon{
+	background-color: green;
+}
+
+.broccoli{
+	background-color: red;
+}
+
+.sandwich{
+	background-color: blue;
+}
